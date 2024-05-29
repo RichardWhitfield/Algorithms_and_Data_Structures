@@ -1,0 +1,20 @@
+{
+	"folders": [
+		{
+			"path": "Structure_Array"
+		},
+		{
+			"path": "Algorithm_LinearSearch"
+		},
+		{
+			"path": "Algorithm_BinarySearch"
+		},
+		{
+			"path": "Algorithm_CrystalBallSearch"
+		},
+		{
+			"path": "Algorithm_BubbleSort"
+		}
+	],
+	"settings": {}
+}
